@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -91,3 +92,6 @@ True Positives (TP): 36 (correctly predicted as "churn").
 Macro and Weighted Averages:
 Macro Average: Averages the performance metrics across classes, indicating that while precision is high (0.92), recall is low (0.62), leading to moderate F1-score (0.67).
 Weighted Average: Accounts for the number of instances in each class, showing that the model performs well overall (0.90 precision, 0.89 recall, 0.86 F1-score) but highlights the imbalance in predicting churn.
+=======
+
+>>>>>>> origin/main
