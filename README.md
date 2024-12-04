@@ -1,4 +1,33 @@
-<<<<<<< HEAD
+### Predicting Customer Churn for SyriaTel: Identifying Key Factors and Reducing Attrition
+### Business Understanding
+The data for this project was obtained from Kaggle. The primary stakeholders for this project include the marketing and customer service teams at SyriaTel, as well as senior management. SyriaTel, is a prominent telecommunications company, that faces significant revenue losses due to customer churn. This project aims to build a predictive model to identify customers at risk of churning by analyzing various features such as customer demographics, usage patterns, and billing information. By understanding the key factors influencing churn and predicting which customers are likely to leave, SyriaTel can implement targeted retention strategies, improve customer satisfaction, and ultimately enhance business sustainability. This approach not only helps in retaining valuable customers but also optimizes marketing efforts and reduces the costs associated with customer acquisition.
+
+### Problem Statement:
+SyriaTel faces significant revenue losses due to high customer churn. This project aims to develop a predictive model to identify at-risk customers and implement effective retention strategies.
+
+### Business Objectives
+Based on the problem statement, SyriaTel company has to set some objectives in order to curb the problem of customer churning. These are the objectives that will be resolved after creating a model that will address the business churning problem:
+To identify the primary factors influencing customer churn at SyriaTel.
+
+To determine whether predictive model can accurately identify customers who are likely to churn.
+
+To determine whether the insights gained from the churn prediction model be used to enhance customer retention strategies.
+
+To identify what business processes or interventions can be implemented based on the churn predictions to reduce customer attrition.
+
+### Data Understanding
+The dataset for this analysis includes features related to customer demographics, usage patterns, and billing information. Key features include the state of residence, length of account, area code, international plan, voice mail plan, total minutes and charges for calls made during the day, evening, and night, as well as the number of customer service calls. The target variable, churn, indicates whether a customer has left the service. This data provides a comprehensive overview of customer interactions, helping to identify patterns and factors that contribute to churn, enabling effective predictive modeling.
+
+### Data Preparation 
+
+
+### Modelling
+
+### EValuation
+
+### Conclusion
+
+### Recommendations
 
 
 
