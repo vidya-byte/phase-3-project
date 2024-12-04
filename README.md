@@ -7,6 +7,7 @@ SyriaTel faces significant revenue losses due to high customer churn. This proje
 
 ### Business Objectives
 Based on the problem statement, SyriaTel company has to set some objectives in order to curb the problem of customer churning. These are the objectives that will be resolved after creating a model that will address the business churning problem:
+
 To identify the primary factors influencing customer churn at SyriaTel.
 
 To determine whether predictive model can accurately identify customers who are likely to churn.
@@ -19,8 +20,10 @@ To identify what business processes or interventions can be implemented based on
 The dataset for this analysis includes features related to customer demographics, usage patterns, and billing information. Key features include the state of residence, length of account, area code, international plan, voice mail plan, total minutes and charges for calls made during the day, evening, and night, as well as the number of customer service calls. The target variable, churn, indicates whether a customer has left the service. This data provides a comprehensive overview of customer interactions, helping to identify patterns and factors that contribute to churn, enabling effective predictive modeling.
 
 ### Data Preparation 
+Data Preparation involves transforming raw data into a suitable format for analysis. This step includes data cleaning, handling missing values, encoding categorical variables, normalizing numerical features, handling outliers, and creating new features through feature engineering. Proper data preparation ensures that the dataset is consistent and ready for the modeling phase, improving the performance and accuracy of the models.
 
-
+### Exploratory Data Analysis (EDA)
+This is a crucial step in the data science process that involves systematically exploring and summarizing the major features of a dataset. This includes summarizing the data, visualizing distributions, identifying patterns and relationships, and detecting anomalies or outliers. EDA helps in gaining insights into the data, guiding feature selection, and informing subsequent data preparation and modeling steps. Common techniques i used here include histograms, bar plots, scatter plots, box plots, and correlation heatmaps.The aim here is to gain a deeper understanding of the data, identify patterns, relationships and anomalies.
 ### Modelling
 
 ### EValuation
